@@ -6,7 +6,23 @@
     <description>Recent content on Rafael Riber</description>
     <generator>Hugo -- 0.136.4</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Apr 2016 07:07:07 +0100</lastBuildDate>
     <atom:link href="https://rafaelriber.ch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LED Shoes</title>
+      <link>https://rafaelriber.ch/projects/led_shoes/</link>
+      <pubDate>Thu, 28 Apr 2016 07:07:07 +0100</pubDate>
+      <guid>https://rafaelriber.ch/projects/led_shoes/</guid>
+      <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;p&gt;The goal for this project was to customize my siser&amp;rsquo;s shoes with LED strips. Although they were eventually never really used, this mostly gave me an excuse to design my first (actually working) PCB.&lt;/p&gt;
+&lt;h3 id=&#34;sidenote&#34;&gt;Sidenote&lt;/h3&gt;
+&lt;p&gt;Here is a picture of my first actual PCB design. Clearly defining the ground pours with a width of zero thinking it would not matter was a mistake.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;my_First_PCBs.JPG&#34; alt=&#34;First PCB&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;First_PCB_Mistake.JPG&#34; alt=&#34;Mistake&#34;  /&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;design&#34;&gt;Design&lt;/h1&gt;
+&lt;p&gt;The design idea was quite simple : essentially make my own tiny Arduino board. Since only minimal IO was needed, I decided to use the ATTiny85. With some breakout boards for the SOIC package of the ATTiny designed and ordered, prototyping was done on an Arduino Uno, then replacing it with a DIP package of the ATTiny directly on the breadboard&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

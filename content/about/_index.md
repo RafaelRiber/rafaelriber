@@ -1,15 +1,10 @@
 # About Me
 
 
-## Background
+## CV 
 
-<object class="pdf" 
-            data="CV.pdf"
-            width="800"
-            height="1050">
-    </object>
-<!-- 
-## Projects -->
+{{< pdf src="CV.pdf" width="100%" height="950">}}
+<!-- ## Projects -->
 
 <!-- Here are a few projects I've worked on:
 
